@@ -2,6 +2,7 @@
 Just a small, simple release for the QBCore Community. In anticipation of a series of releases we have planned over the coming weeks we have dropped this small html edit on the qbcore dependency 'progressbar' for the community. This is our second release for this with a different design, We hope you like it.  
 
 Preview (Imgur): 
+
 https://i.imgur.com/but68PA.png
 
 https://i.imgur.com/E92tE4l.png
