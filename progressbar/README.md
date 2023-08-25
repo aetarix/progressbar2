@@ -3,14 +3,20 @@ Just a small, simple release for the QBCore Community. In anticipation of a seri
 
 Preview (Imgur): 
 https://i.imgur.com/but68PA.png
+
 https://i.imgur.com/E92tE4l.png
+
 https://i.imgur.com/hbF066V.png
+
 Any questions, join our discord community at: https://discord.gg/fTGm36CERk
+
 
 # Usage
 
 ## QB-Core Functions
+
 ### Client
+
 - QBCore.Functions.Progressbar(**name**: string, **label**: string, **duration**: number, **useWhileDead**: boolean, **canCancel**: boolean, **disableControls**: table, **animation**: table, **prop**: table, **propTwo**: table, **onFinish**: function, **onCancel**: function)
   > Create a new progressbar from the built in qb-core functions.<br>
   > **Example:**
